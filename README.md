@@ -11,9 +11,8 @@ We propose an incremental method for 3D mapping and object localization utilizin
 3. git clone https://github.com/vkella/darknet_ros.git
 4. sudo apt install ros-melodic-navigation
 5. sudo apt install ros-melodic-jsk*
-6. sudo apt install ros-melodic-jsk*
-7. sudo apt install ros-melodic-rtabmap-ros
-8. catkin build 
+6. sudo apt install ros-melodic-rtabmap-ros
+7. catkin build 
 
 ```
 ## To Run 
