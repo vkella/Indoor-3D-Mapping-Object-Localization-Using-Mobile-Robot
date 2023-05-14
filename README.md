@@ -10,7 +10,7 @@ We propose an incremental method for 3D mapping and object localization utilizin
 5. sudo apt install ros-melodic-jsk*
 6. sudo apt install ros-melodic-jsk*
 7. sudo apt install ros-melodic-rtabmap-ros
-8. catkin build robot_3dslam
+8. catkin build 
 
 ```
 ## To Run 
