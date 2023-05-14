@@ -1,5 +1,8 @@
 # Indoor-3D-Mapping-Object-Localization-Using-Mobile-Robot
 We propose an incremental method for 3D mapping and object localization utilizing a stereo camera.
+![Map](https://github.com/vkella/Indoor-3D-Mapping-Object-Localization-Using-Mobile-Robot/assets/94766962/9aa3dd46-6c31-4fd4-a544-70019e21b2c1)
+
+![Arch](https://github.com/vkella/Indoor-3D-Mapping-Object-Localization-Using-Mobile-Robot/assets/94766962/fd090965-60dd-44ea-ad7c-cd7685442c3a)
 
 ## To Build
 ```shell
@@ -32,3 +35,6 @@ roslaunch explore_lite explore.launch
 
 ```
 
+## Result 
+
+https://www.youtube.com/watch?v=WqNjZji4p1k
